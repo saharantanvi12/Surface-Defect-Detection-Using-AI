@@ -1,63 +1,44 @@
 # Surface Defect Detection Using AI
 
 ## Overview
+This project presents an AI-based approach for detecting surface defects using image processing and machine learning techniques. The system analyzes surface images and identifies defects automatically, demonstrating the application of Artificial Intelligence in industrial quality inspection.
 
-This project focuses on detecting surface defects using Artificial Intelligence and image processing techniques. The main objective is to automate the inspection process and reduce the need for manual checking in industrial environments.
-
-## Project Description
-
-The system analyzes surface images and identifies defective regions using machine learning and computer vision concepts. This project was developed as part of my learning in Artificial Intelligence and its applications in industrial quality control.
+## Objectives
+- Detect defects from surface images automatically.
+- Reduce dependence on manual inspection.
+- Explore the use of AI and computer vision in quality control systems.
 
 ## Features
-
-- Automated surface inspection
-- Defect detection using AI techniques
+- Automated defect detection
 - Image processing and analysis
-- Reduced dependence on manual inspection
-- Industrial quality control application
+- AI-based classification approach
+- Industrial quality inspection application
 
 ## Technologies Used
-
 - Python
-- Artificial Intelligence
 - Machine Learning
 - Computer Vision
+- Image Processing
 
-## Repository Contents
+## Methodology
+1. Acquire surface images for analysis.
+2. Preprocess images to improve quality.
+3. Apply AI and image processing techniques.
+4. Detect and classify defects.
+5. Generate inspection results.
 
-```text
-Surface-Defect-Detection-Using-AI
-│
-├── Source Code
-├── Documentation
-│   └── Project_Report.pdf
-└── README.md
-```
-
-## Applications
-
-- Industrial Inspection
-- Manufacturing Quality Control
-- Automated Monitoring Systems
-- Smart Manufacturing
-
-## What I Learned
-
-Through this project, I gained experience in:
-
-- Image processing fundamentals
-- Machine learning concepts
-- AI-based defect detection
-- Python programming
-- Applying AI to real-world industrial problems
+## Results
+The project successfully demonstrates the use of Artificial Intelligence for identifying surface defects and highlights its potential for improving industrial inspection processes.
 
 ## Documentation
+Detailed project documentation is included in this repository:
+- Project_Report.pdf
 
-The complete project report is available in the Documentation folder.
+## Institution
+Thapar Institute of Engineering & Technology, Patiala
 
 ## Author
+Tanvi Saharan
 
-**Tanvi Saharan**
-
-B.Tech Electronics and Computer Engineering  
-Thapar Institute of Engineering and Technology
+Electronics and Computer Engineering Student
+Thapar Institute of Engineering & Technology
